@@ -10,9 +10,7 @@ The approval rate of both answers is 75%. Which video should be ranked first?
 
 ****
 In general, the normal approximation confidence interval for a sample is:
-```{r, out.width='50%', fig.align='center'}
-knitr::include_graphics('C:\Users\Crystal Huang\Desktop\Normal.png')
-```
+![avatar](C:/Users/Crystal Huang/Desktop/Normal.png)
 
 ### Research with the operation department
 
