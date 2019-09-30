@@ -1,4 +1,4 @@
-# Rating-System-optimization-
+# Rating-System-optimization
 This repository aims to conduct rating system optimization using `Wilson Score` according to business needs, so that the accuracy of the scoring system of a live broadcast platform can be higher, saving more resources for the platform to recommend more high-quality streamers to the homepage.
 
 ### Background
@@ -8,9 +8,9 @@ In the live broadcast industry, the major live-streaming platforms are more will
 Suppose there are two videos in a live-streaming platform. One has 3 favors and 1 objection, the other has 30 favors and 10 objections. 
 The approval rate of both answers is 75%. Which video should be ranked first?
 
-****
-In general, the normal approximation confidence interval for a sample is: 
-<img src="https://github.com/nicolehhy/Rating-System-optimization-/raw/master/Normal.png" width="50" alt="Normal">
+*
+In general, the normal approximation confidence interval for a sample is: <br>
+<img src="https://github.com/nicolehhy/Rating-System-optimization-/raw/master/Normal.png" width="300" alt="Normal">
 
 ### Research with the operation department
 
