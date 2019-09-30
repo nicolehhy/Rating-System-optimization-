@@ -10,7 +10,7 @@ The approval rate of both answers is 75%. Which video should be ranked first?
 
 ****
 In general, the normal approximation confidence interval for a sample is: 
-<img src="https://github.com/nicolehhy/Rating-System-optimization/blob/master/Normal.png" width="500" alt="Xgboost RMSE">
+<img src="https://github.com/nicolehhy/Rating-System-optimization/blob/master/Normal.png" width="50" alt="Normal">
 
 ### Research with the operation department
 
