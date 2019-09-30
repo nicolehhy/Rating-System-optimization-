@@ -9,8 +9,8 @@ Suppose there are two videos in a live-streaming platform. One has 3 favors and 
 The approval rate of both answers is 75%. Which video should be ranked first?
 
 ****
-In general, the normal approximation confidence interval for a sample is:
-![avatar](C:/Users/Crystal Huang/Desktop/Normal.png)
+In general, the normal approximation confidence interval for a sample is: {r}
+![](\Desktop\Normal.png)
 
 ### Research with the operation department
 
