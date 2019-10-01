@@ -75,5 +75,6 @@ This is unfair to some live broadcasters who don't look good but are talented. T
 ```
 
 ### Results
-
+After achieving the above optimization, I conducted an offline test and found that the accuracy of the optimized algorithm increased to `91.7%`. The limitation of the project is that I only use 10,000 online streamers' information.
+The problems that can be mined from it are also limited. Gievn more time, I will try to dig more problems to further improve the accuracy and save more resources for the platform. If you have any good questions or suggestions, please feel free to contact me. 
 
