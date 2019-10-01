@@ -18,6 +18,15 @@ The Wilson normal interval is also related to the number of samples. The smaller
 <img src="https://github.com/nicolehhy/Rating-System-optimization-/raw/master/Wilson.png" width="300" alt="Normal">
 
 ### Research with the operation department
+This scoring system not only contains the favorable rate mentioned in the Wilson algorithm, we also referred to, how many times the live video is been viewed more than 1 minute, the number of clicks, how often the chats happen and the number of new followers. <br>
+Due to the low accuracy of the previous scoring system, we conducted a scoring result survey within the operation department. they summarized that the weight of the clicks by their understanding should be reduced, and the weights of the other three indicators should be appropriately increased. Then, the values of the final favors number `P` was calculated by combining these four dimensions, and brought into the Wilson algorithm to obtain a more realistic evaluation for the streamers.
+
+```python
+click_weight = 0.012886181267334866
+short_weight = 0.19072705034439638
+chat_weight = 0.017523205359980466*chat_new_weight
+follow_weight = 0.6722195401618779*follow_new_weight
+```
 
 
 
